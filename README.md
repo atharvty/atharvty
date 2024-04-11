@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atharv Tyagi</h1>
 <h3 align="center">Former SE Intern @ HERE and CSE Undergraduate at Bennett University (Times of India Group)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvty" alt="atharvty" /></a> </p>
-
 - 🌱 I’m currently learning **Next JS 14**
 
 - 💬 Ask me about **React , Data Structures , AR**
@@ -18,7 +16,7 @@
 <a href="https://twitter.com/atharvcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atharvcodes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atharv-tyagi-1738461b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharv-tyagi-1738461b6" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/atharvtyagi88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atharvtyagi88" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/athvrv.profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="athvrv.profile" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/athvrv/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="athvrv/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
